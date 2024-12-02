@@ -2,6 +2,6 @@
 {
     public class Documentum
     {
-        public string DocmentmDummyValue { set {; } get { return "Test"; } }
+        public string DocmentmDummyValue { set {; } get { return "Add TestTest"; } }
     }
 }
