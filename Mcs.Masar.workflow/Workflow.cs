@@ -2,6 +2,6 @@
 {
     public class Workflow
     {
-
+        public string WorkflowDummyValue { set { }; get { return "Workflow"; } }
     }
 }
