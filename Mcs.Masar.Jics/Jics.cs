@@ -2,6 +2,6 @@
 {
     public class Jics
     {
-        public string DocmentmJicsValue { set {; } get { return "Jics2"; } }
+        public string DocmentmJicsValue { set {; } get { return "Jics22"; } }
     }
 }
